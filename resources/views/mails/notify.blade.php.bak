@@ -1,0 +1,16 @@
+
+hi {{$user->name}},
+
+<div>
+    <p>We hope you are all well.</p>
+    <p>Result of <b>{{$set->name}}</b> has been published.</p>
+    <p>You can check you result on your member area.</p>
+    <p><a href="{{env('APP_URL')}}">LOGIN </a><p>
+</div>
+
+
+<div>
+<p>Thanks and Regards, <p>
+<p>MIU -{{env('APP_NAME')}}</p>
+</div>
+
