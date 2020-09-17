@@ -8,11 +8,8 @@
 			 3. edit mail configuration
  2. Run migration 
 
-    
-
 > php artisna migrate:refresh --seed
 3. Run the app:
-> 
 > php artisan serve
 
 # Users and Roles
