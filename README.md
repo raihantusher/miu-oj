@@ -3,13 +3,16 @@
 # Installation
 
  1. configure .env file 
-			 1. edit application url , name etc
-			 2. edit database mail configuration
-			 3. edit mail configuration
+			1. edit application url , name etc
+			2. edit database mail configuration
+			3. edit mail configuration
  2. Run migration 
+
+    
 
 > php artisna migrate:refresh --seed
 3. Run the app:
+> 
 > php artisan serve
 
 # Users and Roles
