@@ -1,4 +1,4 @@
-﻿![enter image description here](http://miuportal.manarat.ac.bd/Images/miu.png =250)
+﻿![enter image description here](http://miuportal.manarat.ac.bd/Images/miu.png)
 
 # Installation
 
