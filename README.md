@@ -2,18 +2,31 @@
 
 # Installation
 
- 1. configure .env file 
-			1. edit application url , name etc
-			2. edit database mail configuration
-			3. edit mail configuration
- 2. Run migration 
+* Install all dependencies using
+
+  
+
+>     composer install
 
     
 
-> php artisna migrate:refresh --seed
+ * . configure .env file 
+	 * edit application url , name etc 		
+	 * edit database mail configuration
+	 * edit mail configuration
+
+ 
+ * Run migration 
+
+    
+
+>  `php artisna migrate:refresh --seed`
+
 3. Run the app:
-> 
-> php artisan serve
+
+    
+
+> `php artisan serve`
 
 # Users and Roles
 users:
