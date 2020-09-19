@@ -32,6 +32,7 @@
 users:
 1. admin@admin.com
 2. student@admin.com
+
 both have same password **admin1234**
 
 there has two user roles admin and student.
