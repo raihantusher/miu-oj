@@ -12,7 +12,7 @@
 
  * . configure .env file 
 	 * edit application url , name etc 		
-	 * edit database mail configuration
+	 * edit database configuration
 	 * edit mail configuration
 
  
